@@ -1,0 +1,52 @@
+body  {   
+    font-size: 17px;
+	  color: blue;  
+    
+    font-family: 'Arial';  
+}  
+.register{  
+       
+        
+         
+        margin: 50 100 100 100px;  
+        padding: 220px;  
+        background: #0aa17b;  
+        border-radius: 20px ;  
+          
+}  
+h1{  
+    text-align: center;  
+    color: #277582;  
+    padding: 30px;  
+}  
+
+#name{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    
+      
+}  
+#maz{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 20px;  
+  color: blue;  
+  
+  
+}  
+
+span {font-size: 25px;
+	  color: black;  
+    
+    font-family: 'Arial';
+}
